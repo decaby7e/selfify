@@ -1,0 +1,4 @@
+subdomain: 'example.com'
+port: 80
+secret: 'SuperSecretHere1!1'
+data_dir: 'data'
